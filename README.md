@@ -4,8 +4,8 @@
 
 ### How to use this:
 
-* Clone this repository: `git clone
-* Install the dependencies: `cd app-template` & `npm install`
+* Clone this repository: `git clone https://github.com/adam-saland/html5-file-system.git`
+* Install the dependencies: `cd html5-file-system` & `npm install`
 * Start the live-server and launch the application: `npm start`
 * Add your Javascript code to `main.js` and your HTML to `index.html`
 
